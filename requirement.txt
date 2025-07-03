@@ -1,0 +1,9 @@
+langgraph
+langchain
+langsmith
+typing_extensions
+langchain_groq
+dotenv
+IPython
+
+langchain-tavily
